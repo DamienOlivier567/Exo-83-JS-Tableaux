@@ -1,7 +1,7 @@
-let prenoms = ["pierre","paul","jacques"];
-    = "<Ton Prénom>";
+let prenoms = ["pierre","Damien","jacques"];
+let remplacement = prenoms[1];
 
-document.getElementById('viewport'). = ;
+document.getElementById('viewport').innerHTML = remplacement;
 
 
 
